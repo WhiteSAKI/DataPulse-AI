@@ -1,0 +1,9 @@
+{
+    "version": "1.2.0",
+    "changelog": "1. 新增自动更新功能\n2. 修复已知问题",
+    "urls": {
+        "windows": "https://example.com/app_windows.exe",
+        "macos": "https://example.com/app_macos.dmg",
+        "linux": "https://example.com/app_linux.deb"
+    }
+}
